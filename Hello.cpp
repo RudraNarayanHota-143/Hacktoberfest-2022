@@ -1,8 +1,5 @@
-// Your First C++ Program
-
-#include <iostream>
-
-int main() {
-    std::cout << "Hello World!";
-    return 0;
+class HelloWorld{
+    Public Static Void main(String args[]){
+        System.out.println("Hello World");
+    }
 }
